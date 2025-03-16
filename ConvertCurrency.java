@@ -11,6 +11,17 @@ public class ConvertCurrency
     // to the dollar using Java Swing
     public static void converter()
     {
-    
+        // Creating a new fram using JFrame
+        JFrame f = new JFrame("CONVERTER");
+
+        // Creating two Labels
+        JLabel l1, l2;
+
+        // Creaint two text fields
+        // One for rupee and one for the dollar
+        JTextField t1, t2;
+
+        // Creatint three buttons
+        JButton b1, b2, b3;
     }
 }
